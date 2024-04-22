@@ -1,7 +1,5 @@
 # Generate a Hash from Two Arrays
 
-
-
 def hash_generator(ar1, ar2)
   hash = Hash.new
   ar1.each_with_index do |x, i|
