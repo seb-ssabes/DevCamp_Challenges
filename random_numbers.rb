@@ -4,7 +4,7 @@
 
 def random_num(x)
   ar = []
-  (x).times do |i|
+  x.times do |i|
     ar.push(rand 1000)
   end
   return ar
