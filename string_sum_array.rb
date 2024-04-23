@@ -1,4 +1,4 @@
-# Sum an Array of String Based Integers
+# Sum an Array of string Based Integers
 
 
 # Method 1
