@@ -1,4 +1,5 @@
 # Iterate trough an array a variable number of times and return the full set of elements
+# Clone the cycle method
 
 def cloned_cycle(collection, num)
   final_items = []
